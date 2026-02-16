@@ -8,10 +8,10 @@ p{
 img{
   width:50%;
 }
-.one{
-  font-size :x-small;
-  border-width:4px;
-  border-color:green;
-  border-style:dotted;
-  background-color:yellow;
+.one {
+  font-size: x-small;
+  border-width: 4px;
+  border-color: green;
+  border-style: dotted;
+  background-color: yellow;
 }
